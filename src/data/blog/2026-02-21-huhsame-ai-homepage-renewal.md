@@ -239,5 +239,5 @@ Tiptap의 기본 이미지 노드는 URL만 받는다. Supabase Storage에 직�
 
 ## 링크
 
-- **서비스**: [huhsame.ai](https://huhsame.ai)
+- **서비스**: [huhsame.com](https://huhsame.com)
 - **기술 스택**: Next.js 16 App Router, Supabase, Tailwind CSS 4, Tiptap, next-themes, Gemini API
